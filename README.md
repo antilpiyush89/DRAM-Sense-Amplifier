@@ -37,11 +37,6 @@ The simulated waveforms (BL/BLB) for the conventional and RVD-SBLSA circuits con
 
 *(Note: The simulation uses generic 180nm models instead of the proprietary 65nm technology in the original paper. Therefore, the absolute voltage levels and timing differ somewhat, but the qualitative behavior is reproduced.)*
 
-## Authors
-
-*   **Participant:** Tooba Imtiyaz
-*   **Affiliation:** Department of Electronics Engineering, Faculty of Engineering & Technology, Jamia Millia Islamia, New Delhi
-*   **Initiative:** FOSSEE Research Migration Project, IIT Bombay
 
 ## Reference Paper
 
@@ -50,6 +45,4 @@ The simulated waveforms (BL/BLB) for the conventional and RVD-SBLSA circuits con
 *   **Journal:** Electronics, 2023, 12, 4024
 *   **DOI:** [https://doi.org/10.3390/electronics12194024](https://doi.org/10.3390/electronics12194024)
 
-## License
 
-This project is intended for educational and research purposes. Please refer to the original paper for citation.
